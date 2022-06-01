@@ -1,1 +1,16 @@
+Title: Приложение падает при запуске на Android 11 после предоставления разрешения на работу с камерой
+AppVersion : 1.0.64(110)
+OSVersion: Android 11
+Sevetiry: Critical
+Priority: High 
+Status: Open
+Author : Dinara Shurukhina
 
+Discription: Приложние падает после предоставления разрешения на работу с камерой на Андроид 11
+StepsToReproduce :
+	1. Установить приложение,
+	2. Запустить приложение,
+	3. Предоставить разрешение на работу с камерой
+	
+ActualResult: Приложение падает
+ExpectedResult: Приложение не падает
