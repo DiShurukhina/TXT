@@ -1,0 +1,16 @@
+Mobile:
+	AndroidStudio,
+	ADB,
+	XCode,
+	Charles,
+	Fiddler
+Backend:
+	SQL,
+	Postgres,
+	Postman,
+	API,
+	JMeter,
+	Bash
+WEB:
+	HTTP
+	DevTools
